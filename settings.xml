@@ -52,7 +52,6 @@ under the License.
    | Default: ${user.home}/.m2/repository
   
   -->
-	<localRepository>/Users/leon/.m2/repository</localRepository>
 	<!-- 例如
 	<localRepository>C:\Users\18769\.m2\repository</localRepository> -->
   <!-- interactiveMode
